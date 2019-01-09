@@ -1,0 +1,10 @@
+img {
+  height: 25%;
+  width: 25%;
+}
+
+div {
+  padding-top: 2px;
+  border: 1px solid black;
+  background: teal;
+}
